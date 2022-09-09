@@ -1,0 +1,405 @@
+{
+    "name": "Cats-Detection",
+    "securityToken": "Cats-Detection Token",
+    "sourceConnection": {
+        "name": "Cats-Notebook",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmU2NDhjY2MwYzY5MTY4NmE4NGFhYTJkOWUwZjUzMmQyZTlkMjYzMzNmNDRkMTQyYTEwNzdhMDM5NGY2MzBiMjZjY2Q3MmJkZGEzNzkxZjMxZmIyNmI4MjY5OTA4OGFiOWUwYjQxZWE4YmI3Y2ExYmE5MWY1ZDgxNDlkOWY5OTUxM2Q3YjhlNjYyOTdjZmQ0ZDgxYTc3MjZjM2JhYWY5MWE5OGYyZjI1ZTk3ODlmOWI2YjUzMTM1YjRmZmJjODlkZTBiMmVlYmU3ZTgxOTdjMDZlMTE0NmI3ZmY4ODVhMmUiLCJpdiI6IjMyZTg5YmU5MmQ5ZTJlNTdhZGJlYzEzNzkwMTBlNjgyYjE0NzJhZjBhN2Q4MWExNiJ9"
+        },
+        "id": "33qkD9NyD"
+    },
+    "targetConnection": {
+        "name": "Cats-Notebook",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTdmMDY2ODcxMTMxN2JjOWUzODdmMGQ5MDgyZjljNWZhZDAyMzY3MGUzM2Y0ZWNhMGI0Yzc3YzFiMWIwZTBlOGJkMzYwYjliYzMwNTkwMDAzOWIyODNmODkyZWVmZDJhM2FmYWQ4ZWI1NjMwZjU1YjU5ZDFmNDVkZjY0ZGQ2Mzc4NmYwZTcwMzZiYjQ1ZDMzNTc1MjU2MjZjY2JhMmE5MzMyYjY2MzY4MDA2ODEzZTBlYWEzMDIxMzliODc2ZTYwYzE3YzA4OTg0YmIxMjk5YTdhYzQ3MzhlZGYwYWM0MTMiLCJpdiI6IjYzMzI0MWIzNWJhYzJiNzUzOWU4NzYyNzUzZDBjZTk1YzA5Mjc0NDYzNmU2YmE4YyJ9"
+        },
+        "id": "33qkD9NyD"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Cat",
+            "color": "#5db300"
+        }
+    ],
+    "id": "54Y-4Mm2P",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZWFhMTJlYTgxZjgwYWE4MzA2N2JlODU4MmExMmMyZmVmM2IyZDA5MDk1YzQxNTI0MzVlNzQxOGEyMjQxYzFhZjE5OGZkZGY3OWYyNzZhZWY3NzM1MzYzZDZmNDMxNTkxIiwiaXYiOiJiYmNjNDc4ZDVmZTI4NTUxOTcwNGU2YjdkMDJjMjVjNjk4Yjc5NTRmZDJlM2M0NDMifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "480f96b4978cd014dac2b58a76109749",
+    "assets": {
+        "52a8107af9c7fc46dc5a921bc93331ad": {
+            "format": "jpg",
+            "id": "52a8107af9c7fc46dc5a921bc93331ad",
+            "name": "-2374322832989447197_IMG_6533.jpg",
+            "path": "file:data/Od-cats/Cats/-2374322832989447197_IMG_6533.jpg",
+            "size": {
+                "width": 4898,
+                "height": 3265
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3aaf0155f0b4892b6f01a01ebc5d9b59": {
+            "format": "jpg",
+            "id": "3aaf0155f0b4892b6f01a01ebc5d9b59",
+            "name": "-5803224951959526648_IMG_6567.jpg",
+            "path": "file:data/Od-cats/Cats/-5803224951959526648_IMG_6567.jpg",
+            "size": {
+                "width": 4898,
+                "height": 3265
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb9b85c193498e018f317171a8b48550": {
+            "format": "jpg",
+            "id": "cb9b85c193498e018f317171a8b48550",
+            "name": "1398149041459586004_IMG_6541.jpg",
+            "path": "file:data/Od-cats/Cats/1398149041459586004_IMG_6541.jpg",
+            "size": {
+                "width": 4898,
+                "height": 3265
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2aba89aa0c0f5c0ac9de353570ba936": {
+            "format": "jpg",
+            "id": "c2aba89aa0c0f5c0ac9de353570ba936",
+            "name": "IMG_0103.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_0103.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bcd9e7ab9fbfbfa3cb6540284f2b9712": {
+            "format": "jpg",
+            "id": "bcd9e7ab9fbfbfa3cb6540284f2b9712",
+            "name": "IMG_0311.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_0311.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3dd27f1e30f0637365bf7a5c420725fb": {
+            "format": "jpg",
+            "id": "3dd27f1e30f0637365bf7a5c420725fb",
+            "name": "IMG_0323.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_0323.jpg",
+            "size": {
+                "width": 2736,
+                "height": 3648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64468c24050f6d8a1aa99df814bb82b1": {
+            "format": "jpg",
+            "id": "64468c24050f6d8a1aa99df814bb82b1",
+            "name": "IMG_0650.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_0650.jpg",
+            "size": {
+                "width": 378,
+                "height": 364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26ac41b3d6fef9a807948537720bcb73": {
+            "format": "jpg",
+            "id": "26ac41b3d6fef9a807948537720bcb73",
+            "name": "IMG_0882.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_0882.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5193c7760fb2bb80280ad4d3dcf4cb8": {
+            "format": "jpg",
+            "id": "c5193c7760fb2bb80280ad4d3dcf4cb8",
+            "name": "IMG_1499.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_1499.jpg",
+            "size": {
+                "width": 750,
+                "height": 1026
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b31c4f2a9921ac7f07454506f9e0c51": {
+            "format": "jpg",
+            "id": "2b31c4f2a9921ac7f07454506f9e0c51",
+            "name": "IMG_1637.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_1637.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4590261d75323987c10a54408081702d": {
+            "format": "jpg",
+            "id": "4590261d75323987c10a54408081702d",
+            "name": "IMG_1672.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_1672.jpg",
+            "size": {
+                "width": 1620,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef4b554eaec2b5201ec3a885689b7195": {
+            "format": "jpg",
+            "id": "ef4b554eaec2b5201ec3a885689b7195",
+            "name": "IMG_2330.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_2330.jpg",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f4a3e81afbc876b8ee91f7cc25ca2e0": {
+            "format": "jpg",
+            "id": "0f4a3e81afbc876b8ee91f7cc25ca2e0",
+            "name": "IMG_3680.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_3680.jpg",
+            "size": {
+                "width": 813,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d0f232ad0d31c7348f751eb3307868f": {
+            "format": "jpg",
+            "id": "2d0f232ad0d31c7348f751eb3307868f",
+            "name": "IMG_4536.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_4536.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3720344b7e10a2116cdb15ca4dc611df": {
+            "format": "jpg",
+            "id": "3720344b7e10a2116cdb15ca4dc611df",
+            "name": "IMG_4666.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_4666.jpg",
+            "size": {
+                "width": 410,
+                "height": 520
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91e144c37c99a4da0000450b8791b0bc": {
+            "format": "jpg",
+            "id": "91e144c37c99a4da0000450b8791b0bc",
+            "name": "IMG_5098.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_5098.jpg",
+            "size": {
+                "width": 1408,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7249f902a47e266fc6cad75d62eba005": {
+            "format": "jpg",
+            "id": "7249f902a47e266fc6cad75d62eba005",
+            "name": "IMG_5307.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_5307.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1834
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18a0ec78da4f3a47607bda724df6eec2": {
+            "format": "jpg",
+            "id": "18a0ec78da4f3a47607bda724df6eec2",
+            "name": "IMG_5320.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_5320.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c960d3ca1df39b9316c91ec262793c2f": {
+            "format": "jpg",
+            "id": "c960d3ca1df39b9316c91ec262793c2f",
+            "name": "IMG_5630.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_5630.jpg",
+            "size": {
+                "width": 1125,
+                "height": 1125
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4728e53d0eb007b63f68be2502a68b0": {
+            "format": "jpg",
+            "id": "b4728e53d0eb007b63f68be2502a68b0",
+            "name": "IMG_5687.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_5687.jpg",
+            "size": {
+                "width": 1386,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "771302fffe2b88b133884e231622d656": {
+            "format": "jpg",
+            "id": "771302fffe2b88b133884e231622d656",
+            "name": "IMG_6971.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_6971.jpg",
+            "size": {
+                "width": 1440,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5103fdc73fa8983764830515f8b01b2c": {
+            "format": "jpg",
+            "id": "5103fdc73fa8983764830515f8b01b2c",
+            "name": "IMG_7134.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_7134.jpg",
+            "size": {
+                "width": 1440,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0cd8da2ef40697bc88221f6d199ff702": {
+            "format": "jpg",
+            "id": "0cd8da2ef40697bc88221f6d199ff702",
+            "name": "IMG_7271.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_7271.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "238502756597b31abd2420b064aa6d17": {
+            "format": "jpg",
+            "id": "238502756597b31abd2420b064aa6d17",
+            "name": "IMG_7343.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_7343.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85613cce25ba06cc4df44ee575636443": {
+            "format": "jpg",
+            "id": "85613cce25ba06cc4df44ee575636443",
+            "name": "IMG_7606.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_7606.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23dfcfc0a29d0a19d8351ea278c29aa6": {
+            "format": "jpg",
+            "id": "23dfcfc0a29d0a19d8351ea278c29aa6",
+            "name": "IMG_7812.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_7812.jpg",
+            "size": {
+                "width": 1440,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9cfbd5f2b26e9ed7a64f9f75d7e823c": {
+            "format": "jpg",
+            "id": "f9cfbd5f2b26e9ed7a64f9f75d7e823c",
+            "name": "IMG_8735.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_8735.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3cbf5ba17c237c143d9ee8650726c677": {
+            "format": "jpg",
+            "id": "3cbf5ba17c237c143d9ee8650726c677",
+            "name": "IMG_8984.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_8984.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b701911b5f0e3211c1e53906fb0cd3f": {
+            "format": "jpg",
+            "id": "0b701911b5f0e3211c1e53906fb0cd3f",
+            "name": "IMG_9775.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_9775.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "480f96b4978cd014dac2b58a76109749": {
+            "format": "jpg",
+            "id": "480f96b4978cd014dac2b58a76109749",
+            "name": "IMG_9851.jpg",
+            "path": "file:data/Od-cats/Cats/IMG_9851.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

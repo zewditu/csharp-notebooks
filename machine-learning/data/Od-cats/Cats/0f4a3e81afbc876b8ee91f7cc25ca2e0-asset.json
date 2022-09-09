@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0f4a3e81afbc876b8ee91f7cc25ca2e0",
+        "name": "IMG_3680.jpg",
+        "path": "file:data/Od-cats/Cats/IMG_3680.jpg",
+        "size": {
+            "width": 813,
+            "height": 813
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bguOhKBnG",
+            "type": "RECTANGLE",
+            "tags": [
+                "Cat"
+            ],
+            "boundingBox": {
+                "height": 808.6238038277512,
+                "width": 792.5777511961722,
+                "left": 20.422248803827753,
+                "top": 4.376196172248804
+            },
+            "points": [
+                {
+                    "x": 20.422248803827753,
+                    "y": 4.376196172248804
+                },
+                {
+                    "x": 813,
+                    "y": 4.376196172248804
+                },
+                {
+                    "x": 813,
+                    "y": 813
+                },
+                {
+                    "x": 20.422248803827753,
+                    "y": 813
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
